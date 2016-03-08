@@ -12,7 +12,7 @@ Its features include:
 * Regular language expression string parsing
 * Bidirectional NFA-DFA conversion
 * Bidirectional Regex-NFA/DFA conversion
-* DFA minimization by DFAs by Hopcroft's algorithm
+* DFA minimization by a modification of Hopcroft's algorithm
 * Conversion of DFA/NFA to an easily processable algebraic representation based on adjacency matrices
 * Algebraic simplification of regular language expressions
 * Regular language expression randomization for a given depth
